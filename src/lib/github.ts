@@ -133,7 +133,7 @@ async function fetchProjectGithubUrl(prjectId: string) {
     }
     return {
         project,
-        githubUrl: project.repoUrl,
+        githubUrl: project?.repoUrl,
     };
 }
 
