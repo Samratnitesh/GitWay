@@ -45,8 +45,9 @@ Supercharge your development workflow with GitWay — an intelligent assistant t
 | **TypeScript** | Type-safe modern JavaScript     |
 | **Tailwind CSS** | Utility-first CSS styling     |
 | **Prisma**   | Type-safe database ORM           |
-| **OpenAI API** | AI-powered understanding        |
-| **Firebase** | Authentication and Storage       |
+| **Gemini API** | AI-powered understanding        |
+| **Clerk** | Authentication   |
+| **Supabase** | Storage       |
 
 ---
 
