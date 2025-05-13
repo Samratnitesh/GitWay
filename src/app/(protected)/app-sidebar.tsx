@@ -18,10 +18,6 @@ export function AppSidebar(){
         url:"/dashboard",
         icon:LayoutDashboard
     },{
-        title:"Contribution",
-        url:"/Contribution",
-        icon:GitCommitHorizontal
-    },{
         title:"Q&A",
         url:"/qa",
         icon:Bot

@@ -9,6 +9,9 @@ export function Hero() {
         <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
           <div className="flex flex-col justify-center space-y-4">
             <div className="space-y-2">
+              <p className="inline-block rounded-full bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300 px-4 py-1 text-sm font-medium border border-blue-400 shadow-sm w-fit">
+                Built for developers. Powered by AI. ⚡
+              </p>
               <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
                 Enhance Your Development Workflow with AI
               </h1>
