@@ -1,7 +1,10 @@
 
 # 🚀 GitWay - Your AI-Powered Dev Assistant
 
-Supercharge your development workflow with GitWay — an intelligent assistant that helps you understand codebases, transcribe meetings, and interact with repositories like never before.
+GitWay is a full-stack SaaS platform that empowers developers and teams to collaborate effectively on software projects by leveraging AI. With seamless GitHub integration, GitWay analyzes your repositories and project meetings to provide intelligent insights, summaries, and search capabilities—all in one place.
+
+![Alt Text](https://drive.google.com/uc?export=view&id=141sVMqNrtfu8HkuCij8283fjSD7kM_LD)
+
 
 ---
 ## 📌 Features
@@ -22,7 +25,14 @@ Supercharge your development workflow with GitWay — an intelligent assistant t
 
 ## 📸 Preview
 
-> _(Insert Screenshots or Demo GIFs here)_
+![GitWay Dashboard](https://drive.google.com/uc?export=view&id=10SMFvA3NI-4T_jEsD7UdMDiriGezq0MQ)
+
+![Screenshot 2](https://drive.google.com/uc?export=view&id=13nvoVQAY8-qMb1qB-VlcSzpQCJEJ1ouX)
+
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1H78T5XrvdUUyWAX6ZfxYLdt1Nn2zU5Cf)
+
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1Z23Uw84yvzLskz0z7ez8d3zj9J--F0N1)
+
 
 ---
 
